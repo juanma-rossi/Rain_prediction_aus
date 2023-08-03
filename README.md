@@ -14,4 +14,4 @@ Nuestro modelo ha alcanzado una exactitud del 85% en la clasificación de la apr
 Si deseas contribuir a este proyecto, puedes hacerlo abriendo un "Issue" o enviando un "Pull Request". ¡Estamos abiertos a sugerencias y mejoras!
 
 ## Contacto
-Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto conmigo en juancho.256.8@gmail.com
+Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto conmigo en juancho.256.8@gmail.com o al [Linkedin](https://www.linkedin.com/in/juan-manuel-rossi-77b578264)
